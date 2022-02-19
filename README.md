@@ -4,9 +4,9 @@ I work as a full stack developer with focus on backend technologies and teacher 
 
 I began to work in 2012 and from there to this point, passed through several programming languages and development areas: frontend, middleend and backend. I like all of them (psht! but my favourites are middleend and backend 😉).
 
-## What i'm doing currently?
-I'm focusing on learning Go and try to apply the knowledge dooing personal projects with it outside working hours. I fell in love with the language!  
-Also i'm polishing my C# skill with games development in Unity 3D from time to time and spend some free time working on every crazy idea that comes to my mind, for example [Mirror Suite](https://mirror-suite.com): an online platform that serves as a mock server and error logger for Java Applications.
+## What I am doing currently?
+I'm focusing on learning Solidity and try to apply the knowledge doing personal projects with it outside working hours. 
+Also I am polishing my C# skill with games development in Unity 3D from time to time and spend some free time working on every crazy idea that comes to my mind.
 
 ## How do I work?
 - I'm very proactive and fast learner.
@@ -16,7 +16,7 @@ Also i'm polishing my C# skill with games development in Unity 3D from time to t
 ## Languages an Tools I use
 In order from left to right (most to less used)  
   
-![](https://img.shields.io/badge/Microsoft-C%23-31B8BB?style=for-the-badge&logo=Microsoft)  ![](https://img.shields.io/badge/Oracle-Java+Spark/Spring-007396?style=for-the-badge&logo=Java)  ![](https://img.shields.io/badge/Google-Golang-00ADD8?style=for-the-badge&logo=Go) ![](https://img.shields.io/badge/Node.JS-Node.JS-339933?style=for-the-badge&logo=Node.js)
+![](https://img.shields.io/badge/Oracle-Java+Spark/Spring-007396?style=for-the-badge&logo=Java) ![](https://img.shields.io/badge/Microsoft-C%23-31B8BB?style=for-the-badge&logo=Microsoft) ![](https://img.shields.io/badge/Google-Golang-00ADD8?style=for-the-badge&logo=Go) ![](https://img.shields.io/badge/Node.JS-Node.JS-339933?style=for-the-badge&logo=Node.js)
   
 ![](https://img.shields.io/badge/Javascript-Jquery-0769AD?style=for-the-badge&logo=Jquery) ![](https://img.shields.io/badge/Javascript-React.JS-61DAFB?style=for-the-badge&logo=React)
   
@@ -28,9 +28,9 @@ In order from left to right (most to less used)
 
 ## What about me?
 - 🌱 I’m currently learning Golang
-- 😄 Pronouns: Zacha, Zachars, Gera.
+- 😄 Pronouns: Zacha, Gera.
 - ⚡ Fun fact: boardgames adict!
-- 🎨 Hobbies: Love to paint with watercolors, play videogames, read a good book, cook weird meals, play the guitar from time to time and learn new things every day i can (i really enjoy medicine content)
+- 🎨 Hobbies: Love to paint with watercolors, play videogames, read a good book, cook weird meals, play the guitar from time to time and learn new things every day I can (I really enjoy medicine content)
 
 
 ## Find me out there! 🌎
